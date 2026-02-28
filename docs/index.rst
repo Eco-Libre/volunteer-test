@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Michael Alfield's Eco-Libre Volunteer Test
-==========================================
+Eco-Libre Volunteer Test
+========================
 
 .. toctree::
    :maxdepth: 2
