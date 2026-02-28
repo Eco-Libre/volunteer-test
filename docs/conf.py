@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'maltfield-volunteer-test'
+project = 'volunteer-test'
 copyright = '2026, Michael Altfield'
 author = 'Michael Altfield'
 
