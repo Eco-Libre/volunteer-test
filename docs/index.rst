@@ -104,7 +104,7 @@ Previous Volunteers' Tests
 
 It is *not* cheating to view past Volunteer Tests submitted by previous Eco-Libre volunteers.
 
-It is *not* cheating to copy from previous Eco-Libre volunteers' tests. Everything we do at Eco-Libre is CC BY-SA. We encourage copying from others (so long as you provide attribution!)
+It is *not* cheating to copy from previous Eco-Libre volunteers' tests. Everything we do at Eco-Libre is CC BY-SA. We encourage you to copy work from other Eco-Libre volunteers (so long as you provide attribution!)
 
 Here are some examples of previous Eco-Libre Volunteer Tests:
 
