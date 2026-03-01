@@ -91,13 +91,14 @@ You are not expected to already know how to complete the Eco-Libre test. You *ar
 
 Use Google. Use YouTube. Search forums. If you can't find an answer online, post your question to the online forums.
 
-If you get stuck and aren't able to make any progress for more than 8 hours, ask the Internet. Be thourough in your question. It might help a future volunteer :)
+If you get stuck and aren't able to make any progress for more than 8 hours, ask the Internet. Be thorough in your question. It might help a future volunteer :)
 
 Here are some useful resources that will help you as you work on the Volunteer Test
 
 #. LMDE installation documentation https://linuxmint-installation-guide.readthedocs.io/en/latest/
 #. FreeCAD Forums (ask questions about FreeCAD here if you get stuck working with FreeCAD) https://forum.freecad.org/
 #. Kdenlive Forums (ask questions about kdenlive here) https://discuss.kde.org/tag/kdenlive
+#. `Free Music Archive <https://archive.org/search?query=licenseurl%3Ahttp%2Aby%2A%20OR%20licenseurl%3Ahttp%2Aby-sa%2A%20AND%20NOT%20licenseurl%3Ahttp%2Aby-nc%2A%20AND%20mediatype%3A%28audio%29%20AND%20collection%3Afreemusicarchive>`_ - Internet Archive's selection of openly licensed music
 
 Previous Volunteers' Tests
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
