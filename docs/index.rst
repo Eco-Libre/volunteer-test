@@ -28,7 +28,7 @@ What?
 
 The page that you are reading *right now* is a Sphinx-powered documentation page that's run on GitHub Pages.
 
-You will complete the Volunteer Test when you deliver a Sphinx-powered documentation page (very similar to this page), as well as demonstrate basic usage of GNU/Linux, git, FreeCAD, recordmydesktop, kdenlive, and PeerTube.
+You will complete the Volunteer Test when you deliver a Sphinx-powered documentation page (very similar to this page), as well as demonstrate basic usage of GNU/Linux, git, FreeCAD, recordmydesktop, kdenlive, PeerTube, and Sphinx.
 
 **To complete the Eco-Libre Volunteer Test, please do the following**
 
