@@ -6,7 +6,7 @@ This repo hold GitHub Pages documentation site, which describes the "Volunteer T
 
 To view the *actual* documentation, see:
 
- * TODO
+ * https://eco-libre.github.io/volunteer-test/
 
 The GitHub Pages site is built with Sphinx using the Read The Docs theme. For more info on how this works, see:
 
