@@ -2,11 +2,11 @@
 
 # Eco-Libre Volunteer Test
 
-This repo hold GitHub Pages documentation site, which describes the "Volunteer Tesat" for new volunteers applying to Eco-Libre.
+This repo hold GitHub Pages documentation site, which describes the "Volunteer Test" for new volunteers applying to Eco-Libre.
 
 To view the *actual* documentation, see:
 
- * TODO
+ * https://eco-libre.github.io/volunteer-test/
 
 The GitHub Pages site is built with Sphinx using the Read The Docs theme. For more info on how this works, see:
 
